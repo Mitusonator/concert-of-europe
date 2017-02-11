@@ -23,7 +23,7 @@ rebel =
 can_build = yes
 
 life_needs = {
-	canned_food = 6
+	canned_food = 4
 }
 everyday_needs = {
 	steel = 100
